@@ -1,0 +1,7 @@
+{
+  "usuarios": {
+    "gaston": "gaston1",
+    "adm": "adm1"
+  },
+  "vehiculos": ["ABC123", "XYZ789", "LMN456"]
+}
