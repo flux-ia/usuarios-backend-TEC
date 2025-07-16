@@ -1,0 +1,7 @@
+backend-empleados/
+├── index.js          # Punto de entrada principal
+├── package.json      # Configuración y dependencias
+├── db.json           # Base de datos simulada (usuarios y vehículos)
+└── routes/
+    ├── usuarios.js   # Rutas para gestión de usuarios
+    └── vehiculos.js  # Rutas para gestión de vehículos
